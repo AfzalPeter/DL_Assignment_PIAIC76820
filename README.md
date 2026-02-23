@@ -1,2 +1,2 @@
-# DL_Assignment_PIAIC76820
+# Data Science and Deep learning Projects
 DL Assignment of Q2 Sir Nasir Class
